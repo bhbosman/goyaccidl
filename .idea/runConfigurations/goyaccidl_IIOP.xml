@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="goyaccidl IIOP" type="GoApplicationRunConfiguration" factoryName="Go Application" folderName="Corba Files">
+    <module name="goyaccidl" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <parameters value=" -v  -idldef _COMPONENT_REPOSITORY_  -o ./output/JacORB.orb.json -ff  -of ../orb/src/omg/   ../orb/idl/omg/iiop.idl" />
+    <kind value="PACKAGE" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <package value="github.com/bhbosman/goyaccidl" />
+    <directory value="$PROJECT_DIR$/" />
+    <method v="2" />
+  </configuration>
+</component>

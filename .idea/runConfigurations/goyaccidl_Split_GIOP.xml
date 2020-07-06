@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="goyaccidl Split GIOP" type="GoApplicationRunConfiguration" factoryName="Go Application" folderName="Split">
+    <module name="goyaccidl" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <parameters value=" -v  -idldef &quot;_COMPONENT_REPOSITORY_,GIOP_1_1&quot;   -ff  -of ../goIdlGiop  ../orb/idl/omg/giop.idl" />
+    <kind value="PACKAGE" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <package value="github.com/bhbosman/goyaccidl" />
+    <directory value="$PROJECT_DIR$/" />
+    <method v="2" />
+  </configuration>
+</component>

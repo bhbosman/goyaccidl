@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../goIdlCorba" />
+    <content url="file://$MODULE_DIR$/../goIdlCosEventComm" />
+    <content url="file://$MODULE_DIR$/../goIdlCosNotification" />
+    <content url="file://$MODULE_DIR$/../goIdlGiop" />
+    <content url="file://$MODULE_DIR$/../goIdlIiop" />
+    <content url="file://$MODULE_DIR$/../goIdlIop" />
+    <content url="file://$MODULE_DIR$/../goIdlMathService" />
+    <content url="file://$MODULE_DIR$/../goIdlMiop" />
+    <content url="file://$MODULE_DIR$/../goIdlTimeBase" />
+    <content url="file://$MODULE_DIR$/../gocommon" />
+    <content url="file://$MODULE_DIR$/../gocorba" />
+    <content url="file://$MODULE_DIR$/../goidl" />
+    <content url="file://$MODULE_DIR$/../golexidl" />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../lexidl" />
+    <content url="file://$MODULE_DIR$/../lexpragma" />
+    <content url="file://$MODULE_DIR$/../lexpragmaids" />
+    <content url="file://$MODULE_DIR$/../orb" />
+    <content url="file://$MODULE_DIR$/../yaccidl" />
+    <content url="file://$MODULE_DIR$/../yaccpragma" />
+    <content url="file://$MODULE_DIR$/../yaccpragmaids" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

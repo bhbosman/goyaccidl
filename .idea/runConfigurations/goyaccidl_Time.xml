@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="goyaccidl Time" type="GoApplicationRunConfiguration" factoryName="Go Application" folderName="Corba Files">
+    <module name="goyaccidl" />
+    <working_directory value="$PROJECT_DIR$/" />
+    <parameters value=" -v     -ff  -of ../orb/src/omg/   ../orb/idl/omg/TimeBase.idl" />
+    <kind value="PACKAGE" />
+    <filePath value="$PROJECT_DIR$/main.go" />
+    <package value="github.com/bhbosman/goyaccidl" />
+    <directory value="$PROJECT_DIR$/" />
+    <method v="2" />
+  </configuration>
+</component>
