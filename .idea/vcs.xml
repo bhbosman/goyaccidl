@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/../goIdlCorba" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../goIdlCosEventComm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../goIdlCosNotification" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../goIdlGiop" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../goIdlIiop" vcs="Git" />
